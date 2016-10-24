@@ -4,7 +4,7 @@ bam_summary.py - written by Simon Harris
 
 fastq2fasta.pl - written by Simon Harris
 
-fast52fastq.py - written by Simon Harris  - cab be found at https://github.com/kim-judge/minionassembly/blob/master/fast52fastq.py
+fast52fastq.py - written by Simon Harris  - can be found at https://github.com/kim-judge/minionassembly/blob/master/fast52fastq.py
 
 
 in_silico_pcr.py - can be found at https://github.com/simonrharris/in_silico_pcr
